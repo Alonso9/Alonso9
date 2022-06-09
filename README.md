@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Alonso9/Alonso9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Alonso</h1>
 <h3 align="center">A passionate web developer from Mexico 😎😎</h3>
 
